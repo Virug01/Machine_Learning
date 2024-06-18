@@ -27,9 +27,10 @@ git clone https://github.com/yourusername/linear-regression-model.git
 cd linear-regression-model
 
 2. Open the Jupyter notebook:
+
 jupyter notebook "Machine Learning Lr_model.ipynb"
 
-3. Execute the cells in the notebook to see the linear regression model in action.
+4. Execute the cells in the notebook to see the linear regression model in action.
 
 Notebook Overview
 The notebook is organized into the following sections:
