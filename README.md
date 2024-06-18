@@ -26,18 +26,6 @@ To run the notebook, you need the following packages:
 
 You can install the required packages using pip:
 
-```bash
-pip install numpy matplotlib scikit-learn
-
-Requirements
-To run the notebook, you need the following packages:
-
-Python 3.8 or later
-*numpy
-*matplotlib
-*scikit-learn
-You can install the required packages using pip:
-
 Usage
 1. Clone the repository:
 
@@ -48,7 +36,7 @@ cd linear-regression-model
 
 jupyter notebook "Machine Learning Lr_model.ipynb"
 
-4. Execute the cells in the notebook to see the linear regression model in action.
+3. Execute the cells in the notebook to see the linear regression model in action.
 
 Notebook Overview
 The notebook is organized into the following sections:
