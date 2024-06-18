@@ -1,16 +1,33 @@
-Machine Learning Linear Regression Model
+# Machine Learning Linear Regression Model
+
 This repository contains a Jupyter notebook implementing a simple linear regression model. The notebook demonstrates how to build, train, and evaluate a linear regression model using Python.
 
-Contents
-*Introduction
-*Requirements
-*Usage
-*Notebook Overview
-*Results
-*License
+## Contents
 
-Introduction
+- [Introduction](#introduction)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Notebook Overview](#notebook-overview)
+- [Results](#results)
+- [License](#license)
+
+## Introduction
+
 Linear regression is a fundamental algorithm in machine learning and statistics. It models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. This notebook provides a practical example of implementing linear regression from scratch.
+
+## Requirements
+
+To run the notebook, you need the following packages:
+
+- Python 3.8 or later
+- numpy
+- matplotlib
+- scikit-learn
+
+You can install the required packages using pip:
+
+```bash
+pip install numpy matplotlib scikit-learn
 
 Requirements
 To run the notebook, you need the following packages:
